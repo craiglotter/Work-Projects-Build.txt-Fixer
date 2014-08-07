@@ -1,0 +1,12 @@
+Work Projects Build.txt Fixer is a simple application that runs through all the Work Project folders in a specified base folder, checking and reformatting the Build.txt file so that if follows the YYYYMMDD.VV format (e.g. 20071010.01).
+
+To select the Projects folder to check, either click on the browse button or drag and drop the folder straight on to the text box. Note that a Projects base folder follows the form of "Base Project Folder" -> "Example App - 04 November 2004" -> "Build.txt"
+
+To start the operation, simply click on the Begin button. 
+
+The help and about menu options brings up the help and about dialog boxes respectively.
+
+(Note that a backup folder is created each time the application runs an operation.)
+
+
+-- Last Updated: 10/10/2007 --
